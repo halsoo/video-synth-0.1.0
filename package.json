@@ -1,7 +1,7 @@
 {
     "name": "vsp-demo",
     "version": "0.1.0",
-    "homepage": "https://halsoo.github.io/video-synth-01",
+    "homepage": "https://halsoo.github.io/video-synth-0.1.0",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
