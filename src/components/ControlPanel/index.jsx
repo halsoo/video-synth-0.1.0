@@ -19,6 +19,7 @@ class ControlPanel extends Component {
                 <Slider name="screenSplitNum" />
                 {splitShape == 1 ? <Slider name="screenSplitSpread" /> : null}
                 <Slider name="shapeHue" />
+                <Slider name="motionSmoothing" />
             </div>
         );
     }

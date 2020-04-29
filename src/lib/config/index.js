@@ -55,6 +55,15 @@ export default {
             precision: 0,
         },
         {
+            label: 'Motion Smoothing',
+            key: 'motionSmoothing',
+            min: 1,
+            init: 1,
+            max: 100,
+            step: 1,
+            precision: 0,
+        },
+        {
             label: 'Screen Rotate Direction',
             key: 'screenRotateDirection',
             min: 1,

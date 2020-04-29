@@ -35,6 +35,8 @@ export const videoSynthesizer = (p) => {
                 return props.find((prop) => prop.key === 'screenSplitSpread').val;
             case 'SH':
                 return props.find((prop) => prop.key === 'shapeHue').val - modulation[0] * 50;
+            case 'MS':
+                return props.find((prop) => prop.key === 'motionSmoothing').val;
         }
     };
 
@@ -169,7 +171,7 @@ export const videoSynthesizer = (p) => {
 
             for (let i = 0; i < 4; i++) {
                 let diff = prevBands[i] - bands[i];
-                modulation.push(diff / 3);
+                modulation.push(diff / p.gp('MS'));
             }
         } else {
             mic.stop();
