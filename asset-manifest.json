@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/video-synth-0.1.0/static/css/main.f495c62b.chunk.css",
+    "main.css": "/video-synth-0.1.0/static/css/main.11fb54e3.chunk.css",
     "main.js": "/video-synth-0.1.0/static/js/main.6b2e1f87.chunk.js",
     "main.js.map": "/video-synth-0.1.0/static/js/main.6b2e1f87.chunk.js.map",
     "runtime-main.js": "/video-synth-0.1.0/static/js/runtime-main.76d3ed2f.js",
@@ -8,15 +8,15 @@
     "static/js/2.0a2d5735.chunk.js": "/video-synth-0.1.0/static/js/2.0a2d5735.chunk.js",
     "static/js/2.0a2d5735.chunk.js.map": "/video-synth-0.1.0/static/js/2.0a2d5735.chunk.js.map",
     "index.html": "/video-synth-0.1.0/index.html",
-    "precache-manifest.ea6829fe66840c390ccfe8cb6b1d82a9.js": "/video-synth-0.1.0/precache-manifest.ea6829fe66840c390ccfe8cb6b1d82a9.js",
+    "precache-manifest.08a25067aec02e9bdfaae1afc211f7c3.js": "/video-synth-0.1.0/precache-manifest.08a25067aec02e9bdfaae1afc211f7c3.js",
     "service-worker.js": "/video-synth-0.1.0/service-worker.js",
-    "static/css/main.f495c62b.chunk.css.map": "/video-synth-0.1.0/static/css/main.f495c62b.chunk.css.map",
+    "static/css/main.11fb54e3.chunk.css.map": "/video-synth-0.1.0/static/css/main.11fb54e3.chunk.css.map",
     "static/js/2.0a2d5735.chunk.js.LICENSE.txt": "/video-synth-0.1.0/static/js/2.0a2d5735.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.76d3ed2f.js",
     "static/js/2.0a2d5735.chunk.js",
-    "static/css/main.f495c62b.chunk.css",
+    "static/css/main.11fb54e3.chunk.css",
     "static/js/main.6b2e1f87.chunk.js"
   ]
 }
