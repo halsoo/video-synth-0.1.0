@@ -227,8 +227,8 @@ module.exports = {
             default: '1',
         },
         fontFamily: {
-            body: ['Nunito', 'Noto Sans KR', 'sans-serif'],
-            display: ['Nunito', 'Noto Sans KR', 'sans-serif'],
+            body: ['Nunito Sans', 'Noto Sans KR', 'sans-serif'],
+            display: ['Nunito Sans', 'Noto Sans KR', 'sans-serif'],
         },
         fontSize: {
             xs: '0.75rem',
