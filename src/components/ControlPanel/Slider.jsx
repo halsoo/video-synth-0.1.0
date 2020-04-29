@@ -14,7 +14,7 @@ class Slider extends Component {
     render() {
         const slider = this.props.state.find((obj) => obj.key === this.props.name);
         return (
-            <div className="w-30% my-auto inline-block flex flex-col">
+            <div className="w-30% my-auto pb-12 inline-block flex flex-col">
                 <div className="mb-4 text-center text-white text-lg">{slider.label}</div>
                 <div className="">
                     <input
